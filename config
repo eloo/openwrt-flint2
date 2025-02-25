@@ -5,7 +5,7 @@ profile=glinet_gl-mt6000
 
 openwrt_version=24.10.0
 
-packages=adguardhome arp-scan curl ddns-scripts ddns-scripts-cloudflare ddns-scripts-services findutils-xargs fping htop kmod-crypto-kpp kmod-crypto-lib-chacha20 kmod-crypto-lib-chacha20poly1305 kmod-crypto-lib-curve25519 kmod-crypto-lib-poly1305 kmod-udptunnel4 kmod-udptunnel6 kmod-wireguard libcurl4 liblua5.1.5 liblucihttp-lua libncurses6 libnghttp2-14 libpcap1 libqrencode libubus-lua lua luci-app-ddns luci-app-opkg luci-base luci-lib-base luci-lib-ip luci-lib-json luci-lib-jsonc luci-lib-nixio luci-lua-runtime luci-mod-network luci-mod-rpc luci-mod-status luci-proto-ipv6 luci-proto-ppp luci-proto-wireguard luci-theme-bootstrap nano netifd qrencode terminfo ucode-mod-lua wireguard-tools wireless-regdb
+packages=adguardhome arp-scan curl ddns-scripts ddns-scripts-cloudflare ddns-scripts-services findutils-xargs fping htop kmod-crypto-kpp kmod-crypto-lib-chacha20 kmod-crypto-lib-chacha20poly1305 kmod-crypto-lib-curve25519 kmod-crypto-lib-poly1305 kmod-udptunnel4 kmod-udptunnel6 kmod-wireguard libcurl4 liblua5.1.5 liblucihttp-lua libncurses6 libnghttp2-14 libpcap1 libqrencode libubus-lua lua luci luci-app-ddns luci-app-opkg luci-base luci-lib-base luci-lib-ip luci-lib-json luci-lib-jsonc luci-lib-nixio luci-lua-runtime luci-mod-network luci-mod-rpc luci-mod-status luci-proto-ipv6 luci-proto-ppp luci-proto-wireguard luci-theme-bootstrap nano netifd qrencode terminfo ucode-mod-lua wireguard-tools wireless-regdb
 
 disabled_services=
 
